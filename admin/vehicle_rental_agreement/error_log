@@ -1,0 +1,31 @@
+[17-Apr-2021 15:20:57 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/ep2y1514o894/public_html/carrental/admin/table_header.php on line 2
+[17-Apr-2021 15:20:57 Asia/Bangkok] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ep2y1514o894/public_html/carrental/admin/sidebar.php on line 106
+[17-Apr-2021 15:20:57 Asia/Bangkok] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ep2y1514o894/public_html/carrental/admin/sidebar.php on line 1350
+[17-Apr-2021 15:29:11 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/ep2y1514o894/public_html/carrental/admin/editor_header.php on line 2
+[17-Apr-2021 15:29:11 Asia/Bangkok] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ep2y1514o894/public_html/carrental/admin/sidebar.php on line 106
+[17-Apr-2021 15:29:11 Asia/Bangkok] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ep2y1514o894/public_html/carrental/admin/sidebar.php on line 1350
+[17-Apr-2021 15:29:13 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/ep2y1514o894/public_html/carrental/admin/table_header.php on line 2
+[17-Apr-2021 15:29:13 Asia/Bangkok] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ep2y1514o894/public_html/carrental/admin/sidebar.php on line 106
+[17-Apr-2021 15:29:13 Asia/Bangkok] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ep2y1514o894/public_html/carrental/admin/sidebar.php on line 1350
+[17-Apr-2021 15:29:16 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/ep2y1514o894/public_html/carrental/admin/editor_header.php on line 2
+[17-Apr-2021 15:29:16 Asia/Bangkok] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ep2y1514o894/public_html/carrental/admin/sidebar.php on line 106
+[17-Apr-2021 15:29:16 Asia/Bangkok] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ep2y1514o894/public_html/carrental/admin/sidebar.php on line 1350
+[17-Apr-2021 15:30:32 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/ep2y1514o894/public_html/carrental/admin/editor_header.php on line 2
+[17-Apr-2021 15:30:32 Asia/Bangkok] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ep2y1514o894/public_html/carrental/admin/sidebar.php on line 106
+[17-Apr-2021 15:30:32 Asia/Bangkok] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ep2y1514o894/public_html/carrental/admin/sidebar.php on line 1350
+[17-Apr-2021 15:35:21 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/ep2y1514o894/public_html/carrental/admin/table_header.php on line 2
+[17-Apr-2021 15:35:21 Asia/Bangkok] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ep2y1514o894/public_html/carrental/admin/sidebar.php on line 106
+[17-Apr-2021 15:35:21 Asia/Bangkok] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ep2y1514o894/public_html/carrental/admin/sidebar.php on line 1350
+[17-Apr-2021 15:39:07 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/ep2y1514o894/public_html/carrental/admin/editor_header.php on line 2
+[17-Apr-2021 15:39:07 Asia/Bangkok] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ep2y1514o894/public_html/carrental/admin/sidebar.php on line 106
+[17-Apr-2021 15:39:07 Asia/Bangkok] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ep2y1514o894/public_html/carrental/admin/sidebar.php on line 1350
+[17-Apr-2021 15:39:10 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/ep2y1514o894/public_html/carrental/admin/table_header.php on line 2
+[17-Apr-2021 15:39:10 Asia/Bangkok] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ep2y1514o894/public_html/carrental/admin/sidebar.php on line 106
+[17-Apr-2021 15:39:10 Asia/Bangkok] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ep2y1514o894/public_html/carrental/admin/sidebar.php on line 1350
+[17-Apr-2021 15:39:12 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/ep2y1514o894/public_html/carrental/admin/editor_header.php on line 2
+[17-Apr-2021 15:39:12 Asia/Bangkok] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ep2y1514o894/public_html/carrental/admin/sidebar.php on line 106
+[17-Apr-2021 15:39:12 Asia/Bangkok] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/ep2y1514o894/public_html/carrental/admin/sidebar.php on line 1350
+[21-Jul-2021 19:20:55 Asia/Bangkok] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home4/savongz/lyna-carrental.com/Trial-Version-1.2/admin/sidebar.php on line 112
+[21-Jul-2021 19:20:55 Asia/Bangkok] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home4/savongz/lyna-carrental.com/Trial-Version-1.2/admin/sidebar.php on line 1356
+[21-Jul-2021 19:46:42 Asia/Bangkok] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home4/savongz/lyna-carrental.com/Trial-Version-1.2/admin/sidebar.php on line 112
+[21-Jul-2021 19:46:42 Asia/Bangkok] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home4/savongz/lyna-carrental.com/Trial-Version-1.2/admin/sidebar.php on line 1356

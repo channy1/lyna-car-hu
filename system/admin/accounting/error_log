@@ -1,0 +1,230 @@
+[08-Sep-2019 16:53:26 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 152
+[08-Sep-2019 16:53:26 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 152
+[08-Sep-2019 18:52:53 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 152
+[08-Sep-2019 18:52:53 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 152
+[08-Sep-2019 18:52:53 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 155
+[08-Sep-2019 18:52:53 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 155
+[08-Sep-2019 18:53:52 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 152
+[08-Sep-2019 18:53:52 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 152
+[08-Sep-2019 18:53:52 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 155
+[08-Sep-2019 18:53:52 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 155
+[10-Sep-2019 10:43:19 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 152
+[10-Sep-2019 10:43:19 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 152
+[10-Sep-2019 10:43:19 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 155
+[10-Sep-2019 10:43:19 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 155
+[10-Sep-2019 10:45:24 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/revenue_category.php on line 116
+[10-Sep-2019 10:46:06 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/revenue_category.php on line 116
+[10-Sep-2019 10:50:21 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_category.php on line 117
+[10-Sep-2019 10:50:58 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_category.php on line 117
+[10-Sep-2019 10:53:58 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/revenue_list.php on line 200
+[10-Sep-2019 10:56:24 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/revenue_list.php on line 200
+[10-Sep-2019 10:57:45 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/revenue_list.php on line 200
+[10-Sep-2019 10:59:42 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_list.php on line 203
+[10-Sep-2019 11:00:17 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_list.php on line 203
+[10-Sep-2019 11:26:29 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/cash_voucher.php on line 227
+[10-Sep-2019 11:26:29 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/cash_voucher.php on line 227
+[10-Sep-2019 15:26:59 Asia/Bangkok] PHP Notice:  Undefined index: allowLog in /home/codocambodia/public_html/Lyna-CarRental/system/config/athonication.php on line 2
+[10-Sep-2019 15:26:59 Asia/Bangkok] PHP Warning:  include_once(/home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/left_navigation_partner.php): failed to open stream: No such file or directory in /home/codocambodia/public_html/Lyna-CarRental/system/admin/layout/header.php on line 200
+[10-Sep-2019 15:26:59 Asia/Bangkok] PHP Warning:  include_once(): Failed opening '/home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/left_navigation_partner.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/codocambodia/public_html/Lyna-CarRental/system/admin/layout/header.php on line 200
+[10-Sep-2019 20:29:58 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/revenue_category.php on line 116
+[10-Sep-2019 20:30:10 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/revenue_category.php on line 116
+[10-Sep-2019 20:31:35 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/revenue_category.php on line 116
+[10-Sep-2019 20:32:16 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/revenue_category.php on line 116
+[10-Sep-2019 20:34:26 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/revenue_category.php on line 116
+[10-Sep-2019 20:38:26 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/revenue_category.php on line 116
+[10-Sep-2019 20:39:09 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/revenue_category.php on line 116
+[10-Sep-2019 20:41:40 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/revenue_category.php on line 116
+[10-Sep-2019 20:42:36 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/revenue_category.php on line 116
+[10-Sep-2019 20:45:02 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/revenue_category.php on line 116
+[10-Sep-2019 20:46:16 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/revenue_category.php on line 116
+[10-Sep-2019 21:19:43 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_category.php on line 117
+[10-Sep-2019 21:20:49 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_request.php on line 207
+[10-Sep-2019 21:20:49 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_request.php on line 207
+[10-Sep-2019 21:24:58 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_request.php on line 207
+[10-Sep-2019 21:24:58 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_request.php on line 207
+[10-Sep-2019 21:25:43 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 152
+[10-Sep-2019 21:25:43 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 152
+[10-Sep-2019 21:25:43 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 155
+[10-Sep-2019 21:25:43 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 155
+[10-Sep-2019 21:26:16 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/cash_voucher.php on line 227
+[10-Sep-2019 21:26:16 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/cash_voucher.php on line 227
+[11-Sep-2019 04:22:04 Asia/Bangkok] PHP Notice:  Undefined index: allowLog in /home/codocambodia/public_html/Lyna-CarRental/system/config/athonication.php on line 2
+[11-Sep-2019 04:22:04 Asia/Bangkok] PHP Warning:  include_once(/home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/left_navigation_partner.php): failed to open stream: No such file or directory in /home/codocambodia/public_html/Lyna-CarRental/system/admin/layout/header.php on line 200
+[11-Sep-2019 04:22:04 Asia/Bangkok] PHP Warning:  include_once(): Failed opening '/home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/left_navigation_partner.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/codocambodia/public_html/Lyna-CarRental/system/admin/layout/header.php on line 200
+[11-Sep-2019 04:22:04 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/cash_voucher.php on line 227
+[11-Sep-2019 04:22:04 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/cash_voucher.php on line 227
+[11-Sep-2019 08:28:26 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 152
+[11-Sep-2019 08:28:26 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 152
+[11-Sep-2019 08:28:26 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 155
+[11-Sep-2019 08:28:26 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 155
+[11-Sep-2019 10:22:54 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/revenue_list.php on line 200
+[11-Sep-2019 10:23:29 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/revenue_list.php on line 200
+[11-Sep-2019 10:37:44 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_category.php on line 117
+[11-Sep-2019 10:38:47 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_category.php on line 117
+[11-Sep-2019 10:40:14 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_category.php on line 117
+[11-Sep-2019 10:41:17 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_category.php on line 117
+[11-Sep-2019 10:42:24 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_category.php on line 117
+[11-Sep-2019 10:42:59 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_category.php on line 117
+[11-Sep-2019 10:43:39 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_category.php on line 117
+[11-Sep-2019 10:44:20 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_category.php on line 117
+[11-Sep-2019 10:45:58 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_category.php on line 117
+[11-Sep-2019 10:46:57 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_category.php on line 117
+[11-Sep-2019 10:53:43 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_category.php on line 117
+[11-Sep-2019 10:54:44 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_category.php on line 117
+[11-Sep-2019 11:02:33 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_category.php on line 117
+[11-Sep-2019 11:04:03 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_request.php on line 207
+[11-Sep-2019 11:04:03 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_request.php on line 207
+[11-Sep-2019 11:04:31 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 152
+[11-Sep-2019 11:04:31 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 152
+[11-Sep-2019 11:04:31 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 155
+[11-Sep-2019 11:04:31 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 155
+[12-Sep-2019 16:44:29 Asia/Bangkok] PHP Notice:  Undefined index: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/profit_list.php on line 34
+[12-Sep-2019 16:44:29 Asia/Bangkok] PHP Notice:  Undefined index: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/profit_list.php on line 34
+[13-Sep-2019 04:59:17 Asia/Bangkok] PHP Notice:  Undefined index: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/profit_list.php on line 34
+[13-Sep-2019 04:59:17 Asia/Bangkok] PHP Notice:  Undefined index: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/profit_list.php on line 34
+[13-Sep-2019 05:03:03 Asia/Bangkok] PHP Notice:  Undefined index: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/profit_list.php on line 34
+[13-Sep-2019 05:03:03 Asia/Bangkok] PHP Notice:  Undefined index: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/profit_list.php on line 34
+[13-Sep-2019 10:16:21 Asia/Bangkok] PHP Notice:  Undefined index: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/profit_list.php on line 34
+[13-Sep-2019 10:16:21 Asia/Bangkok] PHP Notice:  Undefined index: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/profit_list.php on line 34
+[13-Sep-2019 10:50:31 Asia/Bangkok] PHP Notice:  Undefined index: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/profit_list.php on line 34
+[13-Sep-2019 10:50:31 Asia/Bangkok] PHP Notice:  Undefined index: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/profit_list.php on line 34
+[13-Sep-2019 10:51:21 Asia/Bangkok] PHP Notice:  Undefined index: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/profit_list.php on line 34
+[13-Sep-2019 10:51:21 Asia/Bangkok] PHP Notice:  Undefined index: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/profit_list.php on line 34
+[16-Sep-2019 09:48:25 Asia/Bangkok] PHP Notice:  Undefined index: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/profit_list.php on line 34
+[16-Sep-2019 09:48:25 Asia/Bangkok] PHP Notice:  Undefined index: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/profit_list.php on line 34
+[16-Sep-2019 10:10:24 Asia/Bangkok] PHP Notice:  Undefined index: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/profit_list.php on line 34
+[16-Sep-2019 10:10:24 Asia/Bangkok] PHP Notice:  Undefined index: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/profit_list.php on line 34
+[16-Sep-2019 17:55:36 Asia/Bangkok] PHP Notice:  Undefined index: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/profit_list.php on line 34
+[16-Sep-2019 17:55:36 Asia/Bangkok] PHP Notice:  Undefined index: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/profit_list.php on line 34
+[16-Sep-2019 17:56:05 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_request.php on line 207
+[16-Sep-2019 17:56:05 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_request.php on line 207
+[16-Sep-2019 17:56:35 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 152
+[16-Sep-2019 17:56:35 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 152
+[16-Sep-2019 17:56:35 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 155
+[16-Sep-2019 17:56:35 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 155
+[16-Sep-2019 17:57:03 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 152
+[16-Sep-2019 17:57:03 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 152
+[16-Sep-2019 17:57:03 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 155
+[16-Sep-2019 17:57:03 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 155
+[16-Sep-2019 17:59:38 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 152
+[16-Sep-2019 17:59:38 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 152
+[16-Sep-2019 17:59:38 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 155
+[16-Sep-2019 17:59:38 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/petty_cash_record_print.php on line 155
+[17-Sep-2019 14:54:35 Asia/Bangkok] PHP Notice:  Undefined index: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/profit_list.php on line 34
+[17-Sep-2019 14:54:35 Asia/Bangkok] PHP Notice:  Undefined index: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/profit_list.php on line 34
+[17-Sep-2019 14:59:37 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_request.php on line 207
+[17-Sep-2019 14:59:37 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_request.php on line 207
+[17-Sep-2019 15:01:22 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/cash_voucher.php on line 227
+[17-Sep-2019 15:01:22 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/cash_voucher.php on line 227
+[20-Sep-2019 21:20:25 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/cash_voucher.php on line 227
+[20-Sep-2019 21:20:25 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/cash_voucher.php on line 227
+[21-Sep-2019 11:47:19 Asia/Bangkok] PHP Notice:  Undefined index: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/profit_list.php on line 34
+[21-Sep-2019 11:47:19 Asia/Bangkok] PHP Notice:  Undefined index: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/profit_list.php on line 34
+[21-Sep-2019 11:49:11 Asia/Bangkok] PHP Notice:  Undefined index: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/profit_list.php on line 34
+[21-Sep-2019 11:49:11 Asia/Bangkok] PHP Notice:  Undefined index: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/profit_list.php on line 34
+[21-Sep-2019 11:49:56 Asia/Bangkok] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/expense_list.php on line 203
+[21-Sep-2019 11:50:13 Asia/Bangkok] PHP Notice:  Undefined index: from in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/profit_list.php on line 34
+[21-Sep-2019 11:50:13 Asia/Bangkok] PHP Notice:  Undefined index: to in /home/codocambodia/public_html/Lyna-CarRental/system/admin/accounting/profit_list.php on line 34
+[27-Mar-2021 12:30:05 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/cash_voucher.php on line 227
+[27-Mar-2021 12:30:05 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/cash_voucher.php on line 227
+[27-Mar-2021 13:44:09 Asia/Bangkok] PHP Notice:  Undefined index: allowLog in /home/ep2y1514o894/public_html/carrental/system/config/athonication.php on line 2
+[27-Mar-2021 13:44:09 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/revenue_list.php:200
+Stack trace:
+#0 {main}
+  thrown in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/revenue_list.php on line 200
+[27-Mar-2021 13:44:10 Asia/Bangkok] PHP Notice:  Undefined index: allowLog in /home/ep2y1514o894/public_html/carrental/system/config/athonication.php on line 2
+[27-Mar-2021 13:44:19 Asia/Bangkok] PHP Notice:  Undefined index: allowLog in /home/ep2y1514o894/public_html/carrental/system/config/athonication.php on line 2
+[27-Mar-2021 13:46:00 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/revenue_list.php:200
+Stack trace:
+#0 {main}
+  thrown in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/revenue_list.php on line 200
+[27-Mar-2021 14:23:46 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/revenue_list.php:200
+Stack trace:
+#0 {main}
+  thrown in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/revenue_list.php on line 200
+[27-Mar-2021 16:26:43 Asia/Bangkok] PHP Notice:  Undefined index: allowLog in /home/ep2y1514o894/public_html/carrental/system/config/athonication.php on line 2
+[27-Mar-2021 16:27:36 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/expense_list.php:203
+Stack trace:
+#0 {main}
+  thrown in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/expense_list.php on line 203
+[27-Mar-2021 18:10:25 Asia/Bangkok] PHP Notice:  Undefined index: allowLog in /home/ep2y1514o894/public_html/carrental/system/config/athonication.php on line 2
+[27-Mar-2021 18:10:25 Asia/Bangkok] PHP Notice:  Undefined index: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/profit_list.php on line 34
+[27-Mar-2021 18:10:25 Asia/Bangkok] PHP Notice:  Undefined index: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/profit_list.php on line 34
+[27-Mar-2021 18:11:01 Asia/Bangkok] PHP Notice:  Undefined index: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/profit_list.php on line 34
+[27-Mar-2021 18:11:01 Asia/Bangkok] PHP Notice:  Undefined index: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/profit_list.php on line 34
+[27-Mar-2021 18:30:13 Asia/Bangkok] PHP Notice:  Undefined index: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/profit_list.php on line 34
+[27-Mar-2021 18:30:13 Asia/Bangkok] PHP Notice:  Undefined index: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/profit_list.php on line 34
+[27-Mar-2021 19:48:49 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/expense_request.php on line 207
+[27-Mar-2021 19:48:50 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/expense_request.php on line 207
+[05-Apr-2021 16:57:31 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/petty_cash_record_print.php on line 152
+[05-Apr-2021 16:57:31 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/petty_cash_record_print.php on line 152
+[05-Apr-2021 16:57:31 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/petty_cash_record_print.php on line 155
+[05-Apr-2021 16:57:31 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/petty_cash_record_print.php on line 155
+[05-Apr-2021 16:57:43 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/cash_voucher.php on line 227
+[05-Apr-2021 16:57:43 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/cash_voucher.php on line 227
+[05-Apr-2021 16:57:49 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/petty_cash_record_print.php on line 152
+[05-Apr-2021 16:57:49 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/petty_cash_record_print.php on line 152
+[05-Apr-2021 16:57:49 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/petty_cash_record_print.php on line 155
+[05-Apr-2021 16:57:49 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/petty_cash_record_print.php on line 155
+[06-Apr-2021 20:59:06 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/cash_voucher.php on line 227
+[06-Apr-2021 20:59:06 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/cash_voucher.php on line 227
+[06-Apr-2021 20:59:15 Asia/Bangkok] PHP Notice:  Undefined index: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/profit_list.php on line 34
+[06-Apr-2021 20:59:15 Asia/Bangkok] PHP Notice:  Undefined index: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/profit_list.php on line 34
+[07-Apr-2021 11:11:18 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/expense_request.php on line 207
+[07-Apr-2021 11:11:18 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/expense_request.php on line 207
+[07-Apr-2021 11:12:09 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/expense_request.php on line 207
+[07-Apr-2021 11:12:09 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/expense_request.php on line 207
+[07-Apr-2021 11:24:55 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/expense_request.php on line 207
+[07-Apr-2021 11:24:55 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/expense_request.php on line 207
+[07-Apr-2021 11:37:53 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/expense_request.php on line 207
+[07-Apr-2021 11:37:53 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/expense_request.php on line 207
+[07-Apr-2021 11:46:43 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/expense_request.php on line 207
+[07-Apr-2021 11:46:43 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/expense_request.php on line 207
+[07-Apr-2021 11:46:58 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/expense_request.php on line 207
+[07-Apr-2021 11:46:58 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/expense_request.php on line 207
+[07-Apr-2021 12:35:11 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/cash_voucher.php on line 227
+[07-Apr-2021 12:35:11 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/cash_voucher.php on line 227
+[07-Apr-2021 12:36:29 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/cash_voucher.php on line 227
+[07-Apr-2021 12:36:29 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/cash_voucher.php on line 227
+[07-Apr-2021 12:36:29 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/cash_voucher.php:250
+Stack trace:
+#0 {main}
+  thrown in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/cash_voucher.php on line 250
+[07-Apr-2021 12:36:29 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/cash_voucher.php on line 227
+[07-Apr-2021 12:36:29 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/cash_voucher.php on line 227
+[07-Apr-2021 12:36:32 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/cash_voucher.php on line 227
+[07-Apr-2021 12:36:32 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/cash_voucher.php on line 227
+[07-Apr-2021 12:36:39 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/cash_voucher.php on line 227
+[07-Apr-2021 12:36:39 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/cash_voucher.php on line 227
+[07-Apr-2021 12:36:42 Asia/Bangkok] PHP Notice:  Undefined index: id in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/cashvoucher_print.php on line 64
+[07-Apr-2021 12:36:49 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/cash_voucher.php on line 227
+[07-Apr-2021 12:36:49 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/cash_voucher.php on line 227
+[07-Apr-2021 13:16:15 Asia/Bangkok] PHP Notice:  Undefined index: id in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/cashvoucher_print.php on line 64
+[07-Apr-2021 13:18:05 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/petty_cash_record_print.php on line 152
+[07-Apr-2021 13:18:05 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/petty_cash_record_print.php on line 152
+[07-Apr-2021 13:18:05 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/petty_cash_record_print.php on line 155
+[07-Apr-2021 13:18:05 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/petty_cash_record_print.php on line 155
+[07-Apr-2021 13:34:35 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/petty_cash_record_print.php on line 152
+[07-Apr-2021 13:34:35 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/petty_cash_record_print.php on line 152
+[07-Apr-2021 13:34:35 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/petty_cash_record_print.php on line 155
+[07-Apr-2021 13:34:35 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/petty_cash_record_print.php on line 155
+[07-Apr-2021 13:48:10 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/petty_cash_record_print.php on line 152
+[07-Apr-2021 13:48:10 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/petty_cash_record_print.php on line 152
+[07-Apr-2021 13:48:10 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/petty_cash_record_print.php on line 155
+[07-Apr-2021 13:48:10 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/petty_cash_record_print.php on line 155
+[07-Apr-2021 13:48:28 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/petty_cash_record_print.php on line 152
+[07-Apr-2021 13:48:28 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/petty_cash_record_print.php on line 152
+[07-Apr-2021 13:48:28 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/petty_cash_record_print.php on line 155
+[07-Apr-2021 13:48:28 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/petty_cash_record_print.php on line 155
+[07-Apr-2021 13:53:52 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/cash_voucher.php on line 227
+[07-Apr-2021 13:53:52 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/cash_voucher.php on line 227
+[07-Apr-2021 16:18:28 Asia/Bangkok] PHP Notice:  Undefined index: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/profit_list.php on line 34
+[07-Apr-2021 16:18:28 Asia/Bangkok] PHP Notice:  Undefined index: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/profit_list.php on line 34
+[07-Apr-2021 16:27:48 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/expense_request.php on line 207
+[07-Apr-2021 16:27:48 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/expense_request.php on line 207
+[07-Apr-2021 16:28:58 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/petty_cash_record_print.php on line 152
+[07-Apr-2021 16:28:58 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/petty_cash_record_print.php on line 152
+[07-Apr-2021 16:28:58 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/petty_cash_record_print.php on line 155
+[07-Apr-2021 16:28:58 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/petty_cash_record_print.php on line 155
+[07-Apr-2021 16:32:55 Asia/Bangkok] PHP Notice:  Undefined variable: from in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/cash_voucher.php on line 227
+[07-Apr-2021 16:32:55 Asia/Bangkok] PHP Notice:  Undefined variable: to in /home/ep2y1514o894/public_html/carrental/system/admin/accounting/cash_voucher.php on line 227

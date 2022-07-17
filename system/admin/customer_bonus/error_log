@@ -1,0 +1,11 @@
+[01-Jan-2020 21:31:20 Asia/Bangkok] PHP Warning:  include_once(/home4/savongz/demo2.lynacarrental.com/system/admin/customer_bonus/left_navigation_partner.php): failed to open stream: No such file or directory in /home4/savongz/demo2.lynacarrental.com/system/admin/layout/header.php on line 200
+[01-Jan-2020 21:31:20 Asia/Bangkok] PHP Warning:  include_once(): Failed opening '/home4/savongz/demo2.lynacarrental.com/system/admin/customer_bonus/left_navigation_partner.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home4/savongz/demo2.lynacarrental.com/system/admin/layout/header.php on line 200
+[02-Jan-2020 19:14:55 Asia/Bangkok] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/savongz/demo2.lynacarrental.com/system/admin/customer_bonus/index.php on line 9
+[02-Jan-2020 06:27:46 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/savongz/demo2.lynacarrental.com/system/admin/customer_bonus/index.php on line 40
+[02-Jan-2020 20:44:12 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::real_escape_stri() in /home4/savongz/demo2.lynacarrental.com/system/admin/customer_bonus/add.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/savongz/demo2.lynacarrental.com/system/admin/customer_bonus/add.php on line 11
+[03-Jan-2020 12:02:34 Asia/Bangkok] PHP Warning:  include_once(/home4/savongz/demo2.lynacarrental.com/system/admin/customer_bonus/left_navigation_partner.php): failed to open stream: No such file or directory in /home4/savongz/demo2.lynacarrental.com/system/admin/layout/header.php on line 200
+[03-Jan-2020 12:02:34 Asia/Bangkok] PHP Warning:  include_once(): Failed opening '/home4/savongz/demo2.lynacarrental.com/system/admin/customer_bonus/left_navigation_partner.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home4/savongz/demo2.lynacarrental.com/system/admin/layout/header.php on line 200
+[02-Apr-2021 19:14:25 Asia/Bangkok] PHP Notice:  Undefined index: allowLog in /home/ep2y1514o894/public_html/carrental/system/config/athonication.php on line 2

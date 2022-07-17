@@ -1,0 +1,149 @@
+<?php 
+    $menu_active =7;
+    $layout_title = "Add News Page";
+    include_once '../../config/database.php';
+    include_once '../../config/athonication.php';
+    include_once '../layout/header.php';
+?>
+
+
+<?php 
+    $edit_id = $_GET["edit_id"];
+    if(isset($_POST['btn_save'])){
+            $v_province = @$connect->real_escape_string($_POST['txt_province']);
+            $v_link = @$connect->real_escape_string($_POST['txt_Link']." ");
+            $query_add = "UPDATE tbl_interesting_place SET province='$v_province',link_detail='$v_link' WHERE pl_id='$edit_id'";
+            if($connect->query($query_add)==TRUE){
+                $sms = '<div class="alert alert-success">
+                <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+                    <strong>Successfull!</strong> Data inserted ...
+                </div>'; 
+            }else{
+                $sms = '<div class="alert alert-danger">
+                <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+                    <strong>Error!</strong> Query error ...
+                </div>';   
+            }
+    }
+
+ ?>
+<?php
+   
+    $query="SELECT * FROM tbl_interesting_place WHERE pl_id='$edit_id'";
+    $result = $connect->query($query);
+    if ($result->num_rows > 0){
+    while($row = $result->fetch_assoc()) {
+            $title = $row["province"];
+            $link = $row["link_detail"];
+        }
+    }
+    else{}
+?>
+
+<div class="portlet light bordered">
+    <div class="row">
+        <div class="col-xs-12">
+            <?= @$sms ?>
+            <h2><i class="fa fa-plus-circle fa-fw"></i>Create Record</h2>
+        </div>
+    </div>
+    
+    <br>
+    <br>
+
+    <div class="portlet-title">
+        <div class="caption font-dark">
+            <a href="index.php" id="sample_editable_1_new" class="btn red"> 
+                <i class="fa fa-arrow-left"></i>
+                Back
+            </a>
+        </div>
+    </div>
+
+       <div style=" border: solid; border-right: 0; border-left: 0; border-top: 0;">
+        <div class="text-center" style="float: left; "><img src="lyna.jpg" style="width: 150px;height: 150px;"></div>
+        <div style="text-align: center; width: 100%;margin-left: -50px;">
+                <b style="font-size: 30px;font-family: Khmer OS Muol; color:#2F05A5"> កែសម្រួលទីកន្លែង </b><br>
+                <b style="font-size: 20px;color:#2F05A5">EDIT INTERESTING PLACE</b><br><br>
+                <b style="font-family: Khmer OS Muol;">ស្នាក់ការកណ្តាល / Head Quarter:</b><br>
+                E-mail:%20info@lyna-carrental.com , skype:Skype: lyna-carrental.com<br>
+               <h5 style="padding-left: 65px;">  tel:Cambodian: +855 (0)12 55 42 47 , tel:English: +855 (0)12 92 45 17 , tel:Booking: +855 (0)92 14 30 14</h5>
+        </div>
+        <div class="row">
+             <div class="col-xs-4 col-sm-4 col-md-4">
+             </div>
+             <div class="col-xs-4 col-sm-4 col-md-4">
+             </div>
+             <div class="col-xs-4 col-sm-4 col-md-4">
+
+             </div>
+        </div>
+    </div>
+
+    <div class="portlet-body">
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                <h3 class="panel-title">Input Information</h3>
+            </div>
+            <div class="panel-body" style="background-color:   #800080;">
+                 <form action="#" method="post" enctype="multipart/form-data">
+                    <div class="form-body">
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                <div class="form-group form-md-line-input">
+                                    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
+                                        <label style="color: white;font-size: 15px;">Province
+                                            <span class="required" aria-required="true">*</span>
+                                        </label>
+                                        <span class="help-block">Enter Province...</span>
+                                    </div>
+                                    <div class="col-xs-5 col-sm-5 col-md-5 col-lg-5">
+                                        <input type="text" class="form-control" name="txt_province" placeholder="Enter Title" value="<?php echo ($title); ?>"  required="required" autocomplete="off" style="background-color: white;">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                <div class="form-group form-md-line-input">
+                                    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1">
+                                        <label style="color: white;font-size: 15px;">Link
+                                            <span class="required" aria-required="true">*</span>
+                                        </label>
+                                        <span class="help-block">Enter Link....</span>
+                                    </div>
+                                    <div class="col-xs-5 col-sm-5 col-md-5 col-lg-5">
+                                        <input type="text" class="form-control" name="txt_Link" placeholder="Enter Title" value="<?php echo ($link); ?>"  required="required" autocomplete="off" style="background-color: white;">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <br>
+                    <br>
+                    <div class="form-actions">
+                        <div class="row">
+                            <div class="col-md-3 text-center">
+                                <button type="submit" name="btn_save" class="btn blue"><i class="fa fa-plus fa-fw"></i>Save</button>
+                                <button type="reset" class="btn yellow"><i class="fa fa-eraser fa-fw"></i>Reset</button>
+                                <a href="index.php" class="btn red"><i class="fa fa-undo fa-fw"></i>Cancel</a>
+                            </div>
+                        </div>
+                    </div>
+                </form><br>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<script type="text/javascript" src="../../plugin/ckeditor_4.7.0_full/ckeditor/ckeditor.js"></script>
+<script type="text/javascript">
+    CKEDITOR.replace( 'detail', {
+        language: 'en',
+      height: '700'
+        // uiColor: '#9AB8F3'
+    });
+</script>
+
+
+<?php include_once '../layout/footer.php' ?>

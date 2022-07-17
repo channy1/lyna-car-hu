@@ -1,0 +1,37 @@
+[09-Feb-2019 09:49:36 Asia/Bangkok] PHP Warning:  include_once(/home/newdayte/public_html/Lyna-CarRental/system/admin/pre_info/left_navigation_partner.php): failed to open stream: No such file or directory in /home/newdayte/public_html/Lyna-CarRental/system/admin/layout/header.php on line 200
+[09-Feb-2019 09:49:36 Asia/Bangkok] PHP Warning:  include_once(): Failed opening '/home/newdayte/public_html/Lyna-CarRental/system/admin/pre_info/left_navigation_partner.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/newdayte/public_html/Lyna-CarRental/system/admin/layout/header.php on line 200
+[12-Feb-2019 04:06:16 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'newdayte'@'localhost' (using password: YES) in /home/newdayte/public_html/Lyna-CarRental/system/config/database.php on line 10
+[12-Feb-2019 04:06:16 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/newdayte/public_html/Lyna-CarRental/system/config/database.php on line 15
+[12-Feb-2019 11:06:16 Asia/Bangkok] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/newdayte/public_html/Lyna-CarRental/system/admin/layout/header.php on line 110
+[12-Feb-2019 11:06:16 Asia/Bangkok] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/newdayte/public_html/Lyna-CarRental/system/admin/pre_info/index.php on line 10
+[12-Feb-2019 04:06:32 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'newdayte'@'localhost' (using password: YES) in /home/newdayte/public_html/Lyna-CarRental/system/config/database.php on line 10
+[12-Feb-2019 04:06:32 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/newdayte/public_html/Lyna-CarRental/system/config/database.php on line 15
+[12-Feb-2019 11:06:32 Asia/Bangkok] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/newdayte/public_html/Lyna-CarRental/system/admin/layout/header.php on line 110
+[12-Feb-2019 11:06:32 Asia/Bangkok] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/newdayte/public_html/Lyna-CarRental/system/admin/pre_info/index.php on line 10
+[12-Feb-2019 04:06:59 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'newdayte'@'localhost' (using password: YES) in /home/newdayte/public_html/Lyna-CarRental/system/config/database.php on line 10
+[12-Feb-2019 04:06:59 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/newdayte/public_html/Lyna-CarRental/system/config/database.php on line 15
+[12-Feb-2019 11:06:59 Asia/Bangkok] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/newdayte/public_html/Lyna-CarRental/system/admin/layout/header.php on line 110
+[12-Feb-2019 11:06:59 Asia/Bangkok] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/newdayte/public_html/Lyna-CarRental/system/admin/pre_info/index.php on line 10
+[12-Feb-2019 04:07:01 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'newdayte'@'localhost' (using password: YES) in /home/newdayte/public_html/Lyna-CarRental/system/config/database.php on line 10
+[12-Feb-2019 04:07:01 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/newdayte/public_html/Lyna-CarRental/system/config/database.php on line 15
+[12-Feb-2019 11:07:01 Asia/Bangkok] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/newdayte/public_html/Lyna-CarRental/system/admin/layout/header.php on line 110
+[12-Feb-2019 11:07:01 Asia/Bangkok] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/newdayte/public_html/Lyna-CarRental/system/admin/pre_info/index.php on line 10
+[12-Feb-2019 04:07:03 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'newdayte'@'localhost' (using password: YES) in /home/newdayte/public_html/Lyna-CarRental/system/config/database.php on line 10
+[12-Feb-2019 04:07:03 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/newdayte/public_html/Lyna-CarRental/system/config/database.php on line 15
+[12-Feb-2019 11:07:03 Asia/Bangkok] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/newdayte/public_html/Lyna-CarRental/system/admin/layout/header.php on line 110
+[12-Feb-2019 11:07:03 Asia/Bangkok] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/newdayte/public_html/Lyna-CarRental/system/admin/pre_info/index.php on line 10
+[12-Feb-2019 04:07:24 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'newdayte'@'localhost' (using password: YES) in /home/newdayte/public_html/Lyna-CarRental/system/config/database.php on line 10
+[12-Feb-2019 04:07:24 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/newdayte/public_html/Lyna-CarRental/system/config/database.php on line 15
+[12-Feb-2019 11:07:24 Asia/Bangkok] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/newdayte/public_html/Lyna-CarRental/system/admin/layout/header.php on line 110
+[12-Feb-2019 11:07:24 Asia/Bangkok] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/newdayte/public_html/Lyna-CarRental/system/admin/pre_info/index.php on line 10
+[12-Feb-2019 04:07:25 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'newdayte'@'localhost' (using password: YES) in /home/newdayte/public_html/Lyna-CarRental/system/config/database.php on line 10
+[12-Feb-2019 04:07:25 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/newdayte/public_html/Lyna-CarRental/system/config/database.php on line 15
+[12-Feb-2019 11:07:25 Asia/Bangkok] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/newdayte/public_html/Lyna-CarRental/system/admin/layout/header.php on line 110
+[12-Feb-2019 11:07:25 Asia/Bangkok] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/newdayte/public_html/Lyna-CarRental/system/admin/pre_info/index.php on line 10
+[12-Feb-2019 04:07:27 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'newdayte'@'localhost' (using password: YES) in /home/newdayte/public_html/Lyna-CarRental/system/config/database.php on line 10
+[12-Feb-2019 04:07:27 UTC] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/newdayte/public_html/Lyna-CarRental/system/config/database.php on line 15
+[12-Feb-2019 11:07:27 Asia/Bangkok] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/newdayte/public_html/Lyna-CarRental/system/admin/layout/header.php on line 110
+[12-Feb-2019 11:07:27 Asia/Bangkok] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/newdayte/public_html/Lyna-CarRental/system/admin/pre_info/index.php on line 10
+[14-Aug-2019 18:44:48 Asia/Bangkok] PHP Notice:  Undefined index: allowLog in /home/codocambodia/public_html/Lyna-CarRental/system/config/athonication.php on line 2
+[14-Aug-2019 18:44:48 Asia/Bangkok] PHP Warning:  include_once(/home/codocambodia/public_html/Lyna-CarRental/system/admin/footer_status/left_navigation_partner.php): failed to open stream: No such file or directory in /home/codocambodia/public_html/Lyna-CarRental/system/admin/layout/header.php on line 200
+[14-Aug-2019 18:44:48 Asia/Bangkok] PHP Warning:  include_once(): Failed opening '/home/codocambodia/public_html/Lyna-CarRental/system/admin/footer_status/left_navigation_partner.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/codocambodia/public_html/Lyna-CarRental/system/admin/layout/header.php on line 200

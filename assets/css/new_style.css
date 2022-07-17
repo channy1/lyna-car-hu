@@ -1,0 +1,57 @@
+.card-header.tab-card-header {
+    padding: 0;
+    background: 0;
+    border: none;
+}
+
+.card.tab-card {
+    /* background: none; */
+    border: 0;
+}
+
+.nav-tabs .nav-link.active{
+    background: #ccc;
+    font-size: 15px;
+    font-weight: 500;
+    border-bottom:none !important;
+    border-radius: 0;
+}
+.tabtop li a{font-family:'Lato', sans-serif;font-weight:700;color:#1b2834;border-radius:0px;margin-right:10px;border:1px solid #ebebeb !important;}
+.tabtop .active a:before{
+      font-family: FontAwesome;
+    content: "\f0d7";
+    position: absolute;
+  
+    color: #ec3323;
+    font-size: 39px;
+    top: 59px;
+}
+.tabtop li a:hover{color:#ec3323 !important;text-decoration:none;}
+.tabtop .active a:hover{color:#fff !important;}
+.tabtop .active a{background-color:#ec3323 !important;color:#FFF !important;}
+.margin-tops{margin-top:30px;}
+.tabtop li a:last-child{padding:10px 22px;}
+
+.margin-tops4{margin-top:20px;}
+.tabsetting {
+  border-bottom: none;
+}
+.checkbox label{color:#fff;}
+form.booking-form{background: #ec3323f0;
+    padding: 15px;
+    color: #fff;
+    box-shadow: 0px 0px 7px 0px #ed3f2f;
+}
+h4.head-form{padding: 10px 0px 10px 10px;
+    background: #ccc;
+    font-size: 24px !important;}
+    
+th.white-th,td.white-th{color:fff;}    
+@media only screen and (min-device-width : 320px) and (max-device-width : 767px) {
+
+.tabtop .active a:before{font-size: 26px;top: 47px;left: 44px;}
+.tabtop li a:last-child {padding: 5px;}
+.tabtop .active a{font-size: 12px;}
+.tabtop li a{margin-right: 1px;font-size: 12px;}
+    
+}

@@ -1,0 +1,10 @@
+[17-Aug-2019 09:16:11 Asia/Bangkok] PHP Notice:  Undefined index: allowLog in /home/codocambodia/public_html/Lyna-CarRental/system/config/athonication.php on line 2
+[17-Aug-2019 09:16:12 Asia/Bangkok] PHP Notice:  Undefined index: user in /home/codocambodia/public_html/Lyna-CarRental/system/partner/coupon_card/index.php on line 11
+[17-Aug-2019 09:16:12 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in /home/codocambodia/public_html/Lyna-CarRental/system/partner/coupon_card/index.php on line 11
+[17-Aug-2019 09:16:12 Asia/Bangkok] PHP Notice:  Undefined variable: name in /home/codocambodia/public_html/Lyna-CarRental/system/partner/coupon_card/index.php on line 138
+[17-Aug-2019 09:16:12 Asia/Bangkok] PHP Notice:  Undefined variable: phone in /home/codocambodia/public_html/Lyna-CarRental/system/partner/coupon_card/index.php on line 139
+[28-Sep-2019 09:54:46 Asia/Bangkok] PHP Notice:  Undefined index: allowLog in /home/codocambodia/public_html/Lyna-CarRental/system/config/athonication.php on line 2
+[28-Sep-2019 09:54:46 Asia/Bangkok] PHP Notice:  Undefined index: user in /home/codocambodia/public_html/Lyna-CarRental/system/partner/coupon_card/index.php on line 11
+[28-Sep-2019 09:54:46 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in /home/codocambodia/public_html/Lyna-CarRental/system/partner/coupon_card/index.php on line 11
+[28-Sep-2019 09:54:46 Asia/Bangkok] PHP Notice:  Undefined variable: name in /home/codocambodia/public_html/Lyna-CarRental/system/partner/coupon_card/index.php on line 138
+[28-Sep-2019 09:54:46 Asia/Bangkok] PHP Notice:  Undefined variable: phone in /home/codocambodia/public_html/Lyna-CarRental/system/partner/coupon_card/index.php on line 139

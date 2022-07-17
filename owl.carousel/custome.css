@@ -1,0 +1,17 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.items-container {
+    padding: 10px;
+    margin: 10px;
+}
+.items-container a img{
+    transition: .4s;
+    width: 100%;
+}
+.items-container a:hover img{
+    transition: .4s;
+    transform: scale(1.25);
+    opacity: 0.8;
+}

@@ -1,0 +1,6 @@
+[04-Sep-2019 19:05:56 Asia/Bangkok] PHP Notice:  Undefined variable: name in /home/codocambodia/public_html/Lyna-CarRental/system/admin/coupon_card/index.php on line 155
+[04-Sep-2019 19:05:56 Asia/Bangkok] PHP Notice:  Undefined variable: phone in /home/codocambodia/public_html/Lyna-CarRental/system/admin/coupon_card/index.php on line 155
+[04-Sep-2019 19:05:56 Asia/Bangkok] PHP Notice:  Undefined variable: pro in /home/codocambodia/public_html/Lyna-CarRental/system/admin/coupon_card/index.php on line 155
+[04-Sep-2019 19:05:56 Asia/Bangkok] PHP Notice:  Undefined variable: short_name in /home/codocambodia/public_html/Lyna-CarRental/system/admin/coupon_card/index.php on line 159
+[04-Sep-2019 19:05:56 Asia/Bangkok] PHP Notice:  Undefined variable: cop_no in /home/codocambodia/public_html/Lyna-CarRental/system/admin/coupon_card/index.php on line 159
+[04-Sep-2019 19:05:56 Asia/Bangkok] PHP Notice:  Undefined variable: short_name in /home/codocambodia/public_html/Lyna-CarRental/system/admin/coupon_card/index.php on line 160

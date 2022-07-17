@@ -1,0 +1,8 @@
+[27-Feb-2019 00:24:33 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '=' in /home/newdayte/public_html/Lyna-CarRental/system/admin/layout/top_navigation_admin.php on line 35
+[27-Feb-2019 00:26:12 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '=' in /home/newdayte/public_html/Lyna-CarRental/system/admin/layout/top_navigation_admin.php on line 35
+[12-Apr-2021 18:01:56 Asia/Bangkok] PHP Notice:  Undefined index: allowLog in /home/ep2y1514o894/public_html/carrental/system/config/athonication.php on line 2
+[12-Apr-2021 19:24:06 Asia/Bangkok] PHP Notice:  Undefined index: allowLog in /home/ep2y1514o894/public_html/carrental/system/config/athonication.php on line 2
+[13-Apr-2021 10:48:40 Asia/Bangkok] PHP Notice:  Undefined index: allowLog in /home/ep2y1514o894/public_html/carrental/system/config/athonication.php on line 2
+[14-Apr-2021 10:55:33 Asia/Bangkok] PHP Notice:  Undefined index: allowLog in /home/ep2y1514o894/public_html/carrental/system/config/athonication.php on line 2
+[15-Apr-2021 19:51:06 Asia/Bangkok] PHP Notice:  Undefined index: allowLog in /home/ep2y1514o894/public_html/carrental/system/config/athonication.php on line 2
+[16-Apr-2021 10:52:50 Asia/Bangkok] PHP Notice:  Undefined index: allowLog in /home/ep2y1514o894/public_html/carrental/system/config/athonication.php on line 2

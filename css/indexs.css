@@ -1,0 +1,301 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* background-image: url(../images/backgroundbody.png);
+    background-attachment: fixed;
+    background-size: cover; */
+}
+#top-nav {
+    height: 50px; 
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+/* top menu */
+.menu-header {
+    margin-top: 12px;
+    margin-left: 10px; 
+    font-size: 10px;
+    position: relative;
+    list-style: none;
+}
+.menu-header li{
+    color: #a4509f;   
+    font-size: 10px;     
+    display: block;
+    float: left;
+    position: relative;
+    text-decoration: none;
+    transition-duration: 0.5s;
+}
+.menu-header li a{
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-left: 1px solid lightgrey;
+    color: #a4509f;
+}
+.menu-header li a:hover {
+    background-color: white;
+    color:  rgb(228, 111, 111);
+}
+
+/* submenu  */
+.submenu-header {
+    width: 150px;
+    display: none;
+    position: absolute;
+    z-index: 600px;
+    margin-top: -50px;
+}
+.submenu-header li {
+    width: 150px;  
+    display: block;
+}
+.submenu-header li a{
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    margin-left: 5px;
+    display: inline-block;
+    text-decoration: none;
+    color: #a4509f;
+}
+.submenu-header li a:hover {
+    width: 130px;
+    color: rgb(228, 111, 111);
+    padding-left: 15px;
+    transition-duration: 0.5s;
+    background-color: white;
+
+}
+
+/* menu hover */
+.menu-header li:hover > .submenu-header {
+    margin-top: 5px;
+    background-color: white;
+    border-left: 1px solid lightgrey;
+    padding-left: 0px;
+    margin-left: 0px; 
+    color: #a4509f;
+    width:auto;
+    position: absolute;
+    z-index: 500;
+    list-style: none;
+    display: inline-block;
+    float: none;
+    overflow-y: scroll;
+    height:100px;
+}
+
+
+/* logo container */
+
+#logo-image-left {
+    width: 100px;
+    height: 100px;
+}
+.header-top-fixed {
+    /* position: fixed; */
+    background-color: white;
+    /* z-index: 100; */
+    margin-top: 0px !important;
+}
+
+.menu-down {
+    background-color: white;
+   
+}
+.main-menu{
+    height: 25px;
+    list-style-type: none;
+    margin: 0px;
+    background-color: white;
+    padding: 0px;
+}
+.main-menu li {
+    background-color: white;
+    position: relative;
+    display: block;
+    border-right: 2px solid #a4509f;
+    text-align: left;
+    margin-right: 2px;
+    font-size: 12px;
+    float: left;
+}
+.main-menu li a {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-decoration: none;
+    color: #a4509f;
+    display: block;
+}
+
+.main-menu li:hover {
+    color: rgb(228, 111, 111);
+}
+
+.main-menu li a:hover {
+    color: rgb(228, 111, 111);
+    /* background-color: rebeccapurple; */
+}
+.main-menu li:hover .sub-menu {
+    text-align: left;
+    margin-left: -4px;
+    display: inline-block;
+    position: absolute;
+    z-index: 200;
+}
+.sub-menu {
+    position: absolute;
+    display: none;
+}
+.sub-menu li {
+    text-align: left;
+    width: 220px;
+    padding-top: 5px;
+    border: none;
+    border-left: 2px solid #a4509f;
+    margin-left: 0px;
+    background-color: white;
+    padding-left: 0px;
+    display: block;
+    float: none;
+}
+.sub-menu li a {
+    margin-left:0px;
+    text-align: left;
+    color: #a4509f;
+    display: block;
+}
+.sub-menu li a:hover {
+  margin-left: 10px;
+}
+.logo-header {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+
+}
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    color:  rgb(44, 68, 121);
+}
+
+.emptys {
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+}
+/*register menu*/
+.register-menu {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-left:1px solid #a4509f;
+    font-size: 10px;
+    margin-top: 10px;
+    margin-right: -10px;
+    background-color: white;
+    position: absolute;
+    color: #a4509f;
+    z-index: 500;
+    list-style-type: none;
+    text-transform: capitalize;
+}
+.register-menu li {
+    text-align: left;
+    width: 180px;
+    text-transform: capitalize;
+    border: none;
+}
+.register-menu li a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 180px;
+    font-size: 10px;
+    text-transform: capitalize;
+    display: inline-block;
+    color: #a4509f;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+}
+.register-menu li a:hover {
+    padding-left: 15px;
+    color: rgb(228, 111, 111);
+}
+/*tab view register*/
+/* Style the tab */
+.tab {
+  overflow: hidden;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  width: 50%;
+  margin: 0px;
+  padding: 7px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #A4509F;
+  border-radius: 5px 5px 5px 5px;
+  color: white;
+  font-weight: bold;
+}
+
+/* Style the tab content */
+.tabcontent {
+  background-color: #A4509F;
+  padding: 25px;
+  margin: -15px;
+  border-top: none;
+}
+/*tab view*/
+/* .w3-bars > */
+/*.w3-bar > .tablink {
+    color: lightgray;
+}*/
+/*fre-information conatainer style*/
+
+.silde-horizontal {
+    /* border: 2px solid #ebebe0; */
+    border: 2px solid #ebebe0;
+    border-radius: 3px;
+    padding: 5px;
+    margin-right: 6px;  
+    float: left;
+    background-color: white;
+    /* display: inline-block; */
+    width: 16%;
+}
+.slide-horizontal div.img {
+    background-color:  #A4509F;
+    width: 60%;
+    margin: 20px;
+    border: 5px solid #a4509f;
+}
+.slide-horizontal div.p {
+    color: #a4509f;
+}
+.slide-horizontal div.button-detail {
+    background-color: #a4509f;
+}
